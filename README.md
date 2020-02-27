@@ -1,2 +1,2 @@
 # mygit
-练习用
+print('hallo wolrd')
